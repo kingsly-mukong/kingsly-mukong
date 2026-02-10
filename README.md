@@ -63,7 +63,7 @@ A full booking system covering mobile, web, backend, and infrastructure.
 - Backend deployed on a Linux VPS
 - Website hosted on Vercel
 
-🌐 Website: https://travada.agency
+🌐 Website: https://www.travada.agency
 
 ---
 
@@ -86,21 +86,8 @@ If it’s practical and interesting, I’m happy to collaborate.
 
 ### 📫 Get in Touch
 
-- Email: **mukongking@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/mukong-kingsly
 - Portfolio: https://www.mukongking.com
-
----
-
-### 📊 GitHub Activity
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukongKingsly&theme=monokai" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
