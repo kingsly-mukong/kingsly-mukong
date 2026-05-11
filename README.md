@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.mukongking.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mukong-kingsly">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kingsly-mukong/">LinkedIn</a>
 </p>
 
 ---
