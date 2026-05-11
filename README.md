@@ -1,94 +1,80 @@
 <h1 align="center">Hi 👋, I'm Kingsly Mukong</h1>
-<h3 align="center">Full-Stack Software Developer | Web, Mobile & Backend Systems</h3>
 
-<img align="right" width="300px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif" alt="coding">
+<p align="center">
+  Full Stack Developer focused on building scalable web, mobile, and backend systems.
+</p>
 
----
-
-### 👨‍💻 About Me
-
-I’m a **Full-Stack Software Developer** with **5+ years of experience** building and running real-world applications across **web, mobile, and backend systems**.
-
-I enjoy working across the full stack — from clean user interfaces to scalable backend services — and I’m comfortable deploying and maintaining applications in **Linux VPS environments**.
-
-I’ve built and shipped:
-- Mobile apps published on **Google Play Store** and **Apple App Store**
-- Backend systems using **NestJS, MongoDB, Redis, WebSockets, and cron jobs**
-- Dashboards for managing users, tickets, and business data
-- WhatsApp-based booking and notification flows
-
-I value **clean code, simple solutions, and systems that work reliably in production**.
+<p align="center">
+  <a href="https://www.mukongking.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mukong-kingsly">LinkedIn</a>
+</p>
 
 ---
 
-### 🚀 What I Work With
+## 🚀 Tech Stack
 
-**Frontend**
-- React, Next.js, TypeScript, JavaScript
-- Tailwind CSS, SCSS, Responsive UI
+### Frontend
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
 
-**Backend**
-- Node.js, NestJS, Express
-- REST APIs, WebSockets, Webhooks
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql)
 
-**Databases & Caching**
-- MongoDB, PostgreSQL, MySQL, Redis, SQLite
-
-**Mobile**
-- React Native, Expo, Flutter
-
-**Infrastructure**
-- Linux (daily use since 2017)
-- VPS deployment and server management
-- Virtual Machines (Linux, Windows, macOS)
-
-**Tools**
-- Git, GitHub, Docker
-- Google Cloud Platform
-- Figma, Adobe XD
+### Databases & Infrastructure
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
 ---
 
-### 🧩 Featured Project
+## 👨‍💻 About Me
 
-**Travada — Bus Ticket Booking Platform**
-
-A full booking system covering mobile, web, backend, and infrastructure.
-
-- React Native mobile app (Android & iOS)
-- NestJS backend with MongoDB, Redis, cron jobs, and WebSockets
-- Real-time ticket delivery via WhatsApp
-- Web dashboard for managing tickets and trips
-- Role-based access (Bus Manager, Proprietor, Support, Admin)
-- Backend deployed on a Linux VPS
-- Website hosted on Vercel
-
-🌐 Website: https://www.travada.agency
+- 💼 Full stack developer with 5+ years of experience
+- ⚡ Building production-ready applications using React, Next.js, TypeScript, NestJS, and Node.js
+- 📱 Developed and deployed mobile apps for Android and iOS
+- 🔧 Experienced with Linux servers, VPS deployment, CI/CD, and scalable backend systems
+- 🌍 Based in Germany and open to collaboration and new opportunities
 
 ---
 
-### 📂 Projects
+## 🧩 Featured Project — Travada
 
-Some of my work is available here:  
-👉 https://www.mukongking.com/projects
+A full bus ticket booking ecosystem covering mobile, web, backend, and infrastructure.
 
----
+### Highlights
+- 📱 React Native mobile apps
+- ⚙️ NestJS backend with Redis, WebSockets, and cron jobs
+- 🎫 Real-time ticket delivery via WhatsApp
+- 🖥️ Dashboard for managing trips, tickets, and operators
+- 🔐 Role-based access control
+- ☁️ VPS deployment & infrastructure management
 
-### 🤝 Open to Collaboration
-
-- Open-source projects
-- Web or mobile applications
-- Backend systems and APIs
-
-If it’s practical and interesting, I’m happy to collaborate.
-
----
-
-### 📫 Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/mukong-kingsly
-- Portfolio: https://www.mukongking.com
+🔗 https://www.travada.agency
 
 ---
 
-⭐ If you like what you see, feel free to explore my repositories or reach out.
+## 📂 Projects
+
+Explore more of my work here:
+
+🔗 https://www.mukongking.com/projects
+
+---
+
+## 📫 Contact
+
+- Portfolio → https://www.mukongking.com
+- LinkedIn → https://www.linkedin.com/in/mukong-kingsly
+
+---
+
+<p align="center">
+  Thanks for visiting 🚀
+</p>
