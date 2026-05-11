@@ -56,7 +56,7 @@ A full bus ticket booking ecosystem covering mobile, web, backend, and infrastru
 - 🔐 Role-based access control
 - ☁️ VPS deployment & infrastructure management
 
-🔗 https://www.travada.agency
+🔗 https://www.travada.net
 
 ---
 
