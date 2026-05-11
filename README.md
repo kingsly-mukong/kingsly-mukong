@@ -70,7 +70,7 @@ Explore more of my work here:
 
 ## 📫 Contact
 
-- Portfolio → <a href="https://www.mukongking.com" target="_blank">https://www.mukongking.com</a>
+- Portfolio → <a href="https://www.mukongking.com/contact" target="_blank">https://www.mukongking.com/contact</a>
 - LinkedIn → <a href="https://www.linkedin.com/in/kingsly-mukong/" target="_blank">https://www.linkedin.com/in/kingsly-mukong/</a>
 
 ---
