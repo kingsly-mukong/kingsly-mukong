@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mukongking.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/kingsly-mukong/">LinkedIn</a>
+  <a href="https://www.mukongking.com" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/kingsly-mukong/" target="_blank">LinkedIn</a>
 </p>
 
 ---
