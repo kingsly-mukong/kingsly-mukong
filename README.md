@@ -56,7 +56,7 @@ A full bus ticket booking ecosystem covering mobile, web, backend, and infrastru
 - 🔐 Role-based access control
 - ☁️ VPS deployment & infrastructure management
 
-🔗 https://www.travada.net
+🔗 <a href="https://www.travada.net" target="_blank">https://www.travada.net</a>
 
 ---
 
@@ -64,14 +64,14 @@ A full bus ticket booking ecosystem covering mobile, web, backend, and infrastru
 
 Explore more of my work here:
 
-🔗 https://www.mukongking.com/projects
+🔗 <a href="https://www.mukongking.com/projects" target="_blank">https://www.mukongking.com/projects</a>
 
 ---
 
 ## 📫 Contact
 
-- Portfolio → https://www.mukongking.com
-- LinkedIn → https://www.linkedin.com/in/mukong-kingsly
+- Portfolio → <a href="https://www.mukongking.com" target="_blank">https://www.mukongking.com</a>
+- LinkedIn → <a href="https://www.linkedin.com/in/kingsly-mukong/" target="_blank">https://www.linkedin.com/in/kingsly-mukong/</a>
 
 ---
 
