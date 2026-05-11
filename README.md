@@ -66,18 +66,6 @@ Explore more of my work here:
 
 🔗 <a href="https://www.mukongking.com/projects" target="_blank">https://www.mukongking.com/projects</a>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kingsly-mukong&show_icons=true"
-    alt="GitHub Stats"
-  />
-</p>
-
 ---
 
 ## 📫 Contact
