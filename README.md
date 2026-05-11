@@ -73,10 +73,11 @@ Explore more of my work here:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kingsly-mukong&show_icons=true&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kingsly-mukong&show_icons=true"
     alt="GitHub Stats"
   />
 </p>
+
 ---
 
 ## 📫 Contact
