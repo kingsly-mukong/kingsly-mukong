@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mukongking.com" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/kingsly-mukong/" target="_blank">LinkedIn</a>
+  <a href="https://www.mukongking.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/kingsly-mukong/">LinkedIn</a>
 </p>
 
 ---
@@ -44,9 +44,13 @@
 ## 👨‍💻 About Me
 
 - 💼 Full stack developer with 5+ years of experience
+  
 - ⚡ Building production-ready applications using React, Next.js, TypeScript, NestJS, and Node.js
+  
 - 📱 Developed and deployed mobile apps for Android and iOS
+  
 - 🔧 Experienced with Linux servers, VPS deployment, CI/CD, and scalable backend systems
+  
 - 🌍 Based in Germany and open to collaboration and new opportunities
 
 ---
@@ -57,13 +61,18 @@ A full bus ticket booking ecosystem covering mobile, web, backend, and infrastru
 
 ### Highlights
 - 📱 React Native mobile apps
+  
 - ⚙️ NestJS backend with Redis, WebSockets, and cron jobs
+  
 - 🎫 Real-time ticket delivery via WhatsApp
+  
 - 🖥️ Dashboard for managing trips, tickets, and operators
+  
 - 🔐 Role-based access control
+  
 - ☁️ VPS deployment & infrastructure management
 
-🔗 <a href="https://www.travada.net" target="_blank">https://www.travada.net</a>
+🔗 <a href="https://www.travada.net">https://www.travada.net</a>
 
 ---
 
@@ -71,14 +80,14 @@ A full bus ticket booking ecosystem covering mobile, web, backend, and infrastru
 
 Explore more of my work here:
 
-🔗 <a href="https://www.mukongking.com/projects" target="_blank">https://www.mukongking.com/projects</a>
+🔗 <a href="https://www.mukongking.com/projects">https://www.mukongking.com/projects</a>
 
 ---
 
 ## 📫 Contact
 
-- Portfolio → <a href="https://www.mukongking.com/contact" target="_blank">https://www.mukongking.com/contact</a>
-- LinkedIn → <a href="https://www.linkedin.com/in/kingsly-mukong/" target="_blank">https://www.linkedin.com/in/kingsly-mukong/</a>
+- Portfolio → <a href="https://www.mukongking.com/contact">https://www.mukongking.com/contact</a>
+- LinkedIn → <a href="https://www.linkedin.com/in/kingsly-mukong">https://www.linkedin.com/in/kingsly-mukong</a>
 
 ---
 
