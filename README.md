@@ -17,7 +17,12 @@
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000?style=flat&logo=expo)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
@@ -29,8 +34,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud)
 
 ---
 
