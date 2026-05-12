@@ -19,6 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
